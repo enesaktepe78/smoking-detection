@@ -6,7 +6,7 @@
  
   C:\> pip install --upgrade tensorflow==1.15.2
   
-  Clone the Object detection tensorflow gitub repository by going to this link [TensorFlow's Object Detection API] (https://github.com/tensorflow/models).
+  Clone the Object detection tensorflow gitub repository by going to this link [TensorFlow's Object Detection API] (https://github.com/tensorflow/models/tree/r1.13.0).
   
   => Install the following through pip install command.
 
