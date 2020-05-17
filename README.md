@@ -42,6 +42,8 @@ Step 6:
 
 download the model https://drive.google.com/file/d/1V1XYn7CmYZfVgEvH3zor5o0RdRZ7jMKs/view and extract into "cigarette" file
 
+move sigara.pbtxt to data folder
+
 Step 7:
 
 Open models/research/object_detection with PyCharm
