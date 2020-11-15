@@ -1,13 +1,21 @@
 # smoking-detection
  
+ [Click here!](https://github.com/enesaktepe78/smoking-detection/blob/master/test_smoking.ipynb) to test easily on Google colab.
+ 
+ Follow the steps to try on pc
+ 
+Step 1:
+
  Require Python 3.6+ installed.
  
+Step 2:
  To install the CPU-only version of TensorFlow, enter the following command.
  
   C:\> pip install --upgrade tensorflow==1.15.2
   
-  Clone the Object detection tensorflow gitub repository by going to this link [TensorFlow's Object Detection API] (https://github.com/tensorflow/models/tree/r1.13.0).
+  Clone the Object detection tensorflow github repository by going to this link [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/r1.13.0)
   
+Step 3:  
   => Install the following through pip install command.
 
 pip install pillow
@@ -40,7 +48,7 @@ Step 5:
 
 Step 6:
 
-download the model https://drive.google.com/file/d/1V1XYn7CmYZfVgEvH3zor5o0RdRZ7jMKs/view and extract into "cigarette" file
+download the [model](https://drive.google.com/file/d/1V1XYn7CmYZfVgEvH3zor5o0RdRZ7jMKs/view) and extract into "cigarette" file
 
 move sigara.pbtxt to data folder
 
